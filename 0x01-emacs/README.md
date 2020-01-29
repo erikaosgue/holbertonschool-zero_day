@@ -1,1 +1,1 @@
-This is  an excersice to open a file in Emacs
+This is a useful command line emacs Excersice
