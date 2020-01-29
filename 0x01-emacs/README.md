@@ -1,0 +1,1 @@
+This is  an excersice to open a file in Emacs
